@@ -1,0 +1,38 @@
+_repo: A-Tale-of-the-KlosterA-Romance-of-the-German-Mystics-at-the-Cocalico_37942
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McKernan, Frank
+    alias: McKernan, F. (Frank)
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '37708'
+    url: http://www.gutenberg.org/2009/agents/37708
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Koons, Ulysses Sidney
+    gutenberg_agent_id: '39928'
+    url: http://www.gutenberg.org/2009/agents/39928
+  - agent_name: Jabez, Brother
+    gutenberg_agent_id: '39145'
+    url: http://www.gutenberg.org/2009/agents/39145
+description: Also attributed to Ulysses Sidney Koons.
+gutenberg_issued: '2011-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37942'
+  lccn: 05001181
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Seventh-Day Baptists -- Fiction'
+- !lcsh 'Ephrata Cloister -- Fiction'
+title: 'A Tale of the Kloster: A Romance of the German Mystics of the Cocalico'
+url: http://www.gutenberg.org/ebooks/37942
