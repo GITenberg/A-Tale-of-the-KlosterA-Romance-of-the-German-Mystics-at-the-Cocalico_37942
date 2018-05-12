@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39145'
     url: http://www.gutenberg.org/2009/agents/39145
 description: Also attributed to Ulysses Sidney Koons.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37942#A-Tale-of-the-KlosterA-Romance-of-the-German-Mystics-at-the-Cocalico
 gutenberg_issued: '2011-11-06'
 gutenberg_type: Text
 identifiers:
